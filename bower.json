@@ -1,0 +1,19 @@
+{
+  "name": "Wiki 2nd",
+  "version": "0.0.0",
+  "authors": [
+    "Gabriel Cano <gabriel@2nd.com.br>"
+  ],
+  "description": "Projeto de Wiki com diversos tutoriais para a 2nd",
+  "license": "MIT",
+  "homepage": "http://2nd.com.br/wiki",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets",
+    "test",
+    "tests"
+  ]
+}
